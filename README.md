@@ -2,9 +2,7 @@
 
 ## IT STEP Academy | 2023–2026
 
-**Graduate of IT STEP Academy**
-
-Successfully completed the educational program at IT STEP Academy (2023–2026).
+Successfully completed the educational program at IT STEP Academy.
 
 This repository contains my official diploma confirming the completion of my studies.
 
@@ -18,7 +16,7 @@ This repository contains my official diploma confirming the completion of my stu
 
 **Format:** PDF
 
-📄 **[View My Diploma (PDF)](./IT-Step-Academy-Diploma-2026.pdf)**
+📄 **[View My Diploma (PDF)](./Academy-Diploma-2026.pdf)**
 
 ---
 
